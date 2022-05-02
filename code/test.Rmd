@@ -1,0 +1,13 @@
+---
+title: "test"
+author: "Carly Dennison"
+date: "5/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# My git is acting super weird so we are trying this again. For soem reason it won't push any changes mad ein terminal but doesn't have any problem pushing things from r studio.
